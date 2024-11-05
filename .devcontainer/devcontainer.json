@@ -1,7 +1,5 @@
-// For format details, see https://aka.ms/devcontainer.json. For config options, see the
-// README at: https://github.com/devcontainers/templates/tree/main/src/docker-existing-dockerfile
 {
-    "name": "python-project-template",
+    "name": "innovate-hub-documentation-boilerplate",
     "context": "..",
     "dockerFile": "./Dockerfile",
     "runArgs": [
@@ -42,22 +40,15 @@
 		}
 	},
 
-	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {},
 
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [],
 
-	// Uncomment the next line to run commands after the container is created.
-	// "postCreateCommand": "cat /etc/os-release",
-
-	// Uncomment to connect as an existing user other than the container default. More info: https://aka.ms/dev-containers-non-root.
-	// "remoteUser": "devcontainer"
 	"remoteUser": "vscode",
 	"overrideCommand": true,
 	"build": {
         "args": {
-            "PROJECT_NAME": "python-project-template"
+            "PROJECT_NAME": "innovate-hub-documentation-boilerplate"
         }
     },
 	"onCreateCommand": "pre-commit install-hooks"

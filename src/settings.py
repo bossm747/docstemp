@@ -31,7 +31,7 @@ class Settings(BaseSettings):
     """Global application settings loaded from the .env file."""
 
     env: Environment = Environment.DEV
-    logger_name: str = "project_logger"
+    logger_name: str = "innovate_hub_logger"
     logging_level: LoggingLevel = "INFO"
 
 

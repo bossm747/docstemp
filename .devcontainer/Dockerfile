@@ -2,7 +2,7 @@ FROM python:3.12-slim-bullseye AS python
 
 FROM python as debian
 ARG DEBIAN_FRONTEND=noninteractive
-ARG PROJECT_NAME=project
+ARG PROJECT_NAME=innovate-hub-documentation-boilerplate
 
 RUN apt-get update -y && \
     apt-get upgrade -y

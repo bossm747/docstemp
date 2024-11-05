@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "python-project-template"
+name = "innovate-hub-documentation-boilerplate"
 version = "0.0.1"
 description = "Description."
 license = "MIT"
 authors = ["Author <author@author.com>"]
 maintainers = ["Author <author@author.com>"]
-repository = "https://github.com/ross-tsenov/python-project-template"
-documentation = "https://github.com/ross-tsenov/python-project-template/tree/main/docs/"
+repository = "https://github.com/your-username/innovate-hub-documentation-boilerplate"
+documentation = "https://github.com/your-username/innovate-hub-documentation-boilerplate/tree/main/docs/"
 readme = "README.md"
 include = [
     "src",

@@ -1,6 +1,6 @@
-# README for Python Project Template
+# README for Innovate Hub Documentation Boiler Plate
 
-This Python Project Template is designed to streamline the development process, focusing on best practices, code quality, and documentation. It employs a variety of tooling and a structured folder layout to ensure maintainability and ease of use. Below is an overview of its key components, tooling, folder structure, and useful commands to get you started.
+This Innovate Hub Documentation Boiler Plate is designed to streamline the development process, focusing on best practices, code quality, and documentation. It employs a variety of tooling and a structured folder layout to ensure maintainability and ease of use. Below is an overview of its key components, tooling, folder structure, and useful commands to get you started.
 
 ## Tooling
 
