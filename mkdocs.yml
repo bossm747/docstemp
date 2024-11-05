@@ -1,6 +1,6 @@
-site_name: Project Documentation
-repo_url: https://github.com/ross-tsenov/python-project-template
-repo_name: python-project-template
+site_name: Innovate Hub Documentation
+repo_url: https://github.com/bossm747/docstemp
+repo_name: Innovate Hub Documentation Boiler Plate
 theme:
   name: material
   language: en
@@ -24,3 +24,4 @@ nav:
   - Introduction: index.md
   - Getting Started:
     - Installation: getting_started/installation.md
+    - Rebranding: getting_started/rebranding.md
